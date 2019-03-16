@@ -3,3 +3,5 @@ A pictorial step-by-step guide for how to properly upload and deploy functional 
 
 
 [Supplemental learning for Higher-Order functions, or Callback functions.](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+
+[Handlebars Website](http://handlebarsjs.com/)
